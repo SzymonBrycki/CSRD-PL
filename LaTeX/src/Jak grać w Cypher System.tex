@@ -8,12 +8,14 @@ Cypher System korzysta z kości dwudziestościennej (k20) by określić wynik wi
 Mistrz Gry określa stopień trudności danego zadania. Istnieje 10 stopni trudności. Tak więc, trudność można określić na skali od 1 do 10.
 
 Każda trudność ma minimalny wynik powiązany z sobą. Minimalny wynik (inaczej zwany stopniem trudności) to zawsze 3x poziom trudności, więc stopień trudności 1 ma minimalny wynik 3, a stopień trudności 4 ma minimalny wynik 12. By odnieść sukces, należy wyrzucić minimalny wynik lub więcej danego ST. Patrz Tabela Stopnie Trudności po więcej danych.
-Umiejętności postaci, przydatne okoliczności lub doskonały ekwipunek mogą zmniejszyć trudność zadania. Dla przykładu, postać wytrenowana we wspinaczce może zamienić trudność 6 testu wspinaczki na trudność 5. Nazywa się to  Ułatwianiem albo Obniżaniem trudności o jeden stopień (albo po prostu Obniżaniem trudności, gdzie przyjmuje się domyślnie, że dotyczy ona jednego stopnia). Jeśli postać jest wyspecjalizowana we wspinaczce, zamienia ona trudność 6 na trudność 4. Nazywa się to Obniżaniem trudności o dwa stopnie. Obniżanie poziomu trudności może także być nazywane ułatwieniem zadania. Niektóre sytuacje zwiększają, lub Utrudniają, trudność zadania. Jeśli zadanie jest utrudnione, należy zwiększyć jego trudność o jeden poziom.
 
-Umiejętność to kategoria wiedzy, zdolności lub aktywności powiązania z zadaniem, np.: wspinaczka, geografia lub perswazja. Postać, która posiada umiejętność, jest lepsza w powiązanych z nią zadaniach niż postać, która nie posiada danej umiejętności. Posta posiada albo wytrenowaną (do pewnego stopnia) umiejętność, albo wyspecjalizowaną (bardzo dużą).
-Jeśli jesteś wytrenowany w umiejętności powiązanej z danym zadaniem, ułatwiasz rzut o stopień. Jeśli jesteś wyspecjalizowany, obniżasz poziom trudności o dwa stopnie. Umiejętność nigdy nie może obniżyć trudności testu o więcej niż dwa stopnie. 
+Umiejętności postaci, przydatne okoliczności lub doskonały ekwipunek mogą zmniejszyć trudność zadania. Dla przykładu, postać wytrenowana we wspinaczce może zamienić trudność 6 testu wspinaczki na trudność 5. Nazywa się to  \mytext{Ułatwianiem} albo \mytext{Obniżaniem trudności o jeden stopień} (albo po prostu \textit{Obniżaniem trudności}, gdzie przyjmuje się domyślnie, że dotyczy ona jednego stopnia). Jeśli postać jest wyspecjalizowana we wspinaczce, zamienia ona trudność 6 na trudność 4. Nazywa się to \textit{Obniżaniem trudności o dwa stopnie}. Obniżanie poziomu trudności może także być nazywane \textit{ułatwieniem zadania}. Niektóre sytuacje zwiększają, lub \mytext{Utrudniają}, trudność zadania. Jeśli zadanie jest utrudnione, należy zwiększyć jego trudność o jeden poziom.
 
-Wszystko inne co obniża trudność danego zadania nazywa się Wysiłkiem. (Wysiłek opisano szczegółowo w rozdziale Zasady Gry).
+\mytext{Umiejętność} to kategoria wiedzy, zdolności lub aktywności powiązania z zadaniem, np.: wspinaczka, geografia lub perswazja. Postać, która posiada umiejętność, jest lepsza w powiązanych z nią zadaniach niż postać, która nie posiada danej umiejętności. Posta posiada albo wytrenowaną (do pewnego stopnia) umiejętność, albo wyspecjalizowaną (bardzo dużą).
+
+Jeśli jesteś \mytext{wytrenowany} w umiejętności powiązanej z danym zadaniem, ułatwiasz rzut o stopień. Jeśli jesteś \mytext{wyspecjalizowany}, obniżasz poziom trudności o dwa stopnie. Umiejętność nigdy nie może obniżyć trudności testu o więcej niż dwa stopnie. 
+
+Wszystko inne co obniża trudność danego zadania nazywa się \mytext{Wysiłkiem}. (Wysiłek opisano szczegółowo w rozdziale Zasady Gry).
 
 Podsumowując, trzy rzeczy mogą obniżyć trudność zadania: umiejętności, atuty i Wysiłek. 
 
@@ -28,7 +30,7 @@ Jednakże, jeśli twój Poziom Trudności ma wartość 0, rzut nie jest konieczn
 
 Korzystając z umiejętności, atutów i Wysiłku, można teoretycznie obniżyć trudność dowolnej akcji do 0 i zlikwidować konieczność rzucania kostką. Przejście po wąskim drewnie jest trudne dla większości ludzi, ale nie dla doświadczonego gimnastyka. Możesz nawet obniżyć trudność ataku na swojego wroga do 0 i odnieść sukces bez rzucania.
 
-Jeśli nie ma rzutu, nie ma szansy, by odnieść porażkę. Jednakże, nie ma także szansy na wyjątkowy sukces (w Cypher System zazwyczaj oznacza to wyrzucenie 19 lub 20, co jest znane jako specjalne rzuty; rozdział Zasady Gry omawia je w szczegółach).
+Jeśli nie ma rzutu, nie ma szansy, by odnieść porażkę. Jednakże, nie ma także szansy na wyjątkowy sukces (w Cypher System zazwyczaj oznacza to wyrzucenie 19 lub 20, co jest znane jako \mytext{specjalne rzuty}; rozdział Zasady Gry omawia je w szczegółach).
 
 \begin{table*}[t]
  \centering
@@ -37,6 +39,15 @@ Jeśli nie ma rzutu, nie ma szansy, by odnieść porażkę. Jednakże, nie ma ta
    Poziom trudności & Opis & Stopień trudności & Szczegóły  \\ \hline
     0 & Rutyna & 0 & Każdy może to zrobić zawsze \\ \hline
     1 & Proste & 3 & Większość ludzi może to zrobić przez większość czasu  \\ \hline
+    2 & Standardowe & 6 & Typowe zadanie wymagające skupienia, ale większość ludzi może to wykonać \\ \hline
+    3 & Wymagające & 9 & Wymaga pełnej uwagi; większość ludzi ma szansę 50/50 na wykonanie tej czynności \\ \hline
+    4 & Trudne & 12 & Wytrenowani ludzie mają szansę 50/50 na osiągnięcie sukcesu \\ \hline
+    5 & Wyzwanie & 15 &Nawet wytrenowani ludzie często ponoszą klęskę \\ \hline
+    6 & Bardzo trudne &18 &Zwykli ludzie prawie zawsze ponoszą klęskę \\ \hline
+    7 & Przerażająco trudne & 21 &Niemożliwe bez umiejętności lub wielkiego skupienia \\ \hline
+    8 & Heroiczne & 24 &Zadanie godne opisywania w historiach przez lata \\ \hline
+    9 & Legendarne &27 &Zadanie godne legend opowiadanych przez pokolenia \\ \hline
+    10 & Niemożliwe & 30 & Zadanie, którego zwykli ludzie nie mogą wykonać (ale które nie łamie praw fizyki) \\ \hline
  \end{tabularx}
   \caption {Tabela: Trudność zadań}
   \label {Tabela: Trudność zadań}
@@ -51,7 +62,7 @@ Trzeba zaznaczyć, że gracze wykonują wszystkie rzuty w Cypher System. Jeśli 
 
 Obrażenia zadawane przez atak nie są definiowane przez rzut kością – jest to stała wartość bazująca na broni lub ataku. Dla przykładu, włócznia zawsze zadaje 4 punkty obrażeń.
 
-Twój Pancerz redukuje obrażenia które otrzymujesz. Otrzymujesz Pancerz za noszenie fizycznej zbroi (takiej jak skórzana kurtka e współczesnym świecie lub pancerz w świecie fantasy) lub ze specjalnych zdolności. Tak jak wartość obrażeń, Pancerz to stała wartość, nie wynik rzutu. Jeśli jesteś zaatakowany, odejmij swój Pancerz od otrzymanych obrażeń. Dla przykładu, skórzana kurtka daje Ci +1 do Pancerza, co oznacza, że otrzymujesz o 1 mniejsze obrażenia z ataków. Jeśli ktoś trafi Cię atakiem nożem za 2 punkty obrażeń, kiedy ją nosisz, otrzymasz tylko 1 punkt obrażeń. Jeśli Pancerz redukuje obrażenia do 0, wtedy nie otrzymujesz w ogóle żadnych obrażeń. 
+Twój \mytext{Pancerz} redukuje obrażenia które otrzymujesz. Otrzymujesz Pancerz za noszenie fizycznej zbroi (takiej jak skórzana kurtka e współczesnym świecie lub pancerz w świecie fantasy) lub ze specjalnych zdolności. Tak jak wartość obrażeń, Pancerz to stała wartość, nie wynik rzutu. Jeśli jesteś zaatakowany, odejmij swój Pancerz od otrzymanych obrażeń. Dla przykładu, skórzana kurtka daje Ci +1 do Pancerza, co oznacza, że otrzymujesz o 1 mniejsze obrażenia z ataków. Jeśli ktoś trafi Cię atakiem nożem za 2 punkty obrażeń, kiedy ją nosisz, otrzymasz tylko 1 punkt obrażeń. Jeśli Pancerz redukuje obrażenia do 0, wtedy nie otrzymujesz w ogóle żadnych obrażeń. 
 
 Kiedy widzisz w zasadach gry słowo „Pancerz” pisane wielką literą, odnosi się do to statystyki Pancerz – do liczby, o którą obniżasz obrażenia. Kiedy widzisz „pancerz” pisany małą literą, dotyczy to dowolnego fizycznego pancerza, który postać może nosić. 
 
@@ -96,7 +107,7 @@ Wyrzucenie naturalnej 1 jest zawsze złe. To oznacza, że MG wprowadza nowe utru
 
 \section {Zasięg i szybkość}\index{Zasięg i szybkość}
 
-Zasięg dzieli się na 4 ogólnikowe kategorie: bliski, średni, daleki i bardzo daleki.
+\mytext{Zasięg} dzieli się na 4 ogólnikowe kategorie: bliski, średni, daleki i bardzo daleki.
 
 Bliski zasięg to odległość ręki lub paru kroków. Jeśli postać stoi w małym pokoju, wszystko wokół jest w jej bliskim zasięgu. Górna granica bliskiego zasięgu to 3 metry.
 
@@ -107,7 +118,8 @@ Długi dystans to wszystko większe od średniego zasięgu, ale mniejsze niż 30
 Bardzo długi zasięg to wszystko większe od długiego dystansu, ale nie większe niż 150 metrów. Poza tym zasięgiem, odległości zawsze się ściśle określone – 300 metrów, 1,5 kilometra itp.
 
 Ogólną ideą tego systemu jest to, że nie trzeba dokładnie mierzyć i określać odległości. Bliski zasięg to tutaj, obok postaci. Średni zasięg to blisko postaci. Długi dystans jest dalej, a bardzo długi – znacznie dalej.
-Wszystkie bronie i specjalne zdolności korzystają z tych terminów. Dla przykładu, wszystkie bronie do walki wręcz mają bliski zasięg – służą przecież do walki wręcz i można je użyć tylko na osobach, które stoją obok nas. Nóż do rzucania (i większość innych broni rzucanych) mają średni zasięg. Łuk ma długi zasięg. Pocisk Adepta także ma średni zasięg.
+
+Wszystkie bronie i specjalne zdolności korzystają z tych terminów. Dla przykładu, wszystkie bronie do walki wręcz mają bliski zasięg – służą przecież do walki wręcz i można je użyć tylko na osobach, które stoją obok nas. Nóż do rzucania (i większość innych broni rzucanych) mają średni zasięg. Łuk ma długi zasięg. \mytext{Pocisk Adepta} także ma średni zasięg.
 
 Postać może się przemieścić o bliski zasięg jako część innej akcji. Innymi słowy, może ona podejść do panelu kontrolnego i z niego skorzystać. Może przejść przez mały pokój i zaatakować wroga. Mogę otworzyć drzwi i przejść przez nie.
 
@@ -119,13 +131,13 @@ Dla przykładu, jeśli BG walczą z grupą kultystów, każda postać może zaat
 
 \section {Punkty doświadczenia}\index{Punkty doświadczenia!Wstęp}
 
-Punkty doświadczenia (PD-ki) są nagrodą dawaną graczom, gdy GM wtrąca się narrację (nazywamy to Wtrąceniem MG) z nowym i niespodziewanym wyzwaniem. Dla przykładu, w środku walki, MG może poinformować graczy, że upuszczają oni swoje bronie. Jednakże, aby się wtrącić w taki sposób, MG musi dać graczowi 2 PD-ki. Nagrodzony gracz, z kolei, musi natychmiast dać jednego z owych PD-ków innemu graczowi, uzasadniając to (może ten gracz miał dobry pomysł, powiedział zabawny żart, wykonał akcję, która ocaliła życie jakiegoś BN/BG itp.).
+\mytext{Punkty doświadczenia} (PD-ki) są nagrodą dawaną graczom, gdy GM wtrąca się narrację (nazywamy to \mytext{Wtrąceniem MG}) z nowym i niespodziewanym wyzwaniem. Dla przykładu, w środku walki, MG może poinformować graczy, że upuszczają oni swoje bronie. Jednakże, aby się wtrącić w taki sposób, MG musi dać graczowi 2 PD-ki. Nagrodzony gracz, z kolei, musi natychmiast dać jednego z owych PD-ków innemu graczowi, uzasadniając to (może ten gracz miał dobry pomysł, powiedział zabawny żart, wykonał akcję, która ocaliła życie jakiegoś BN/BG itp.).
 
 Alternatywnie, gracz może odrzucić Wtrącenie MG. Jeśli on tak uczyni, nie otrzymuje on 2 PD-ków od GM, i musi wydać i PD z posiadanych przez siebie. Jeśli gracz nie ma PD-ków, nie może odrzucić Wtrącenia MG.
 
 MG może także dać graczom PD-ki pomiędzy sesjami, jako nagrody za dokonywanie odkryć podczas gry. Odkrycia to ciekawe fakty, cudowne sekrety, potężne artefakty, odpowiedzi na pytania lub rozwiązania problemów (np.: gdzie porywacze przetrzymują swoje ofiary lub jak gracze naprawią statek kosmiczny). Nie otrzymujesz PD-ków za zabijanie potworów lub przezwyciężanie zwykłych trudności podczas gry. Odkrycia są duszą Cypher System.
 
-Punkty Doświadczenia głównie służą awansowaniu postaci na poziomy (po detale, patrz: rozdział Tworzenie Własnej Postaci), ale gracz może także wydać 1 PD-ek, by przerzucić kość i wybrać leszy z dwóch wyników. 
+Punkty Doświadczenia głównie służą awansowaniu postaci na poziomy (po detale, patrz: rozdział \mytext{Tworzenie Własnej Postaci}), ale gracz może także wydać 1 PD-ek, by przerzucić kość i wybrać leszy z dwóch wyników. 
 
 \section  {Cyphery}\index{Cyphery!Wstęp}
 
