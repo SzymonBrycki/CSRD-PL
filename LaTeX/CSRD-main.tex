@@ -1,0 +1,47 @@
+\documentclass[12pt, a4paper, twocolumn, openright]{book}
+\usepackage[pdftex, breaklinks=true]{hyperref}
+\usepackage{polski}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref}
+\usepackage{makeidx}
+\usepackage{tabularx}
+\usepackage{xcolor }
+
+\definecolor{purple}{HTML}{92268F}
+
+\makeindex
+
+\newcommand{\mytext }[1] {{\color{purple}  \texttt {#1}}}
+
+% \title{Cypher System Reference Document 2024-07-02 (Edycja Polska)}
+% \author{Zespół Monte Cook Games\thanks{Strona projektu: \url{https://www.montecookgames.com/cypher-system-open-license/}} \and Szymon ``Kaworu'' Brycki\thanks{\href{mailto:szymon.brycki@gmail.com}{\tt szymon.brycki@gmail.com}}}
+
+\begin{document}
+
+\begin{titlepage}
+	\centering
+	{\Huge\bfseries\title  CCypher System Reference Document \par}
+	\vspace{1cm}
+	{\large\itshape 2024-07-02 \par}
+	{\large\itshape Edycja polska \par}
+	\vspace{1cm}
+	{\normalsize Zespół Monte Cook Games,   Szymon ``Kaworu'' Brycki \par}
+	\vspace{1cm}
+	{\normalsize Licencja: \bfseries Cypher System Open License\par}
+	\vspace{1cm}
+	{\normalsize Stworzono w technologii \LaTeX \par}
+	\vspace{1cm}
+	{\large \today \par}
+\end{titlepage}
+
+% \maketitle
+
+\tableofcontents
+
+\input{src/Jak grać w Cypher System.tex}
+
+\printindex
+
+\listoftables
+
+\end{document}
