@@ -1,3 +1,5 @@
+% normal table
+
 \begin{table*}[t]
  \centering
  \begin{tabularx}{\textwidth}{ | X | X | X | X |}
@@ -9,4 +11,18 @@
  \end{tabularx}
   \caption {Tabela: Trudność zadań}
   \label {Tabela: Trudność zadań}
+ \end{table*}
+ 
+ % fixed width table
+ 
+ \begin{table*}[t]
+ \centering
+ \begin{tabularx}{\textwidth}{| p{0.10\textwidth} | X |}
+  \hline
+  d20 & Historia Wojownika  \\ \hline
+    1 & Byłeś w armii i dalej masz przyjaciół, którzy tam są. Twój były dowódca dobrze Cię pamięta. \\ \hline
+    2 & Byłeś ochroniarzem bogatej kobiety, która oskarżyła Cię o kradzież. Opuściłeś jej służbę w cieniu podejrzeń. \\ \hline
+ \end{tabularx}
+  \caption {Tabela:Historia Wojownika}
+  \label {Tabela: Historia Wojownika}
  \end{table*}
