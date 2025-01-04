@@ -1,0 +1,113 @@
+STR 58 – wróć tu potem
+
+Słownik:
+
+assets – atuty
+Armor – Pancerz
+minor effect – mniejszy efekt
+major effect – większy efekt
+difficulty – trudność / poziom trudności
+target number – stopień trudności
+distance – zasięg
+	immediate – bliski
+	short – średni
+	long - daleki
+	very long – bardzo daleki
+GM Intrusion – Wtrącenie MG
+Might – Moc
+Speed- Szybkość
+Intelect – Intelekt
+Edge – Skupienie
+Type – Typ\
+Descriptor – Deskryptor
+Focus – Specjalizacja
+character arc – cel postaci
+character benefit – korzyść postaci
+recovery rolls - rzuty na odzyskiwanie zdrowia
+Flavors – Posmaki
+Player intrusion – Wtrącenie gracza
+defence task – akcja obronna
+Might Defense: Obrona Mocy
+Speed Defence: Obrona Szybkości
+Intellect Defense: Obrona Intelektu
+practiced – wytrenowany
+inability- nieumiejętność
+
+damage track – licznik obrażeń
+	hale – w pełni zdrowia
+	impaired - zraniony
+	debilitated – krytycznie ranny
+	dead - martwy
+object damage track – licznik obrażeń przedmiotu
+
+Onslaught (Adept) – Blast
+Concussion (Adept) – Wybuch
+
+rugged – dziki
+charming – czarujący
+graceful – pełen gracji
+
+Explorer- Odkrywca (STARE: Poszukiwacz) 
+
+Enabler – Umożliwienie
+Action – Akcja
+
+item prices:
+expensive- drogi
+moderatery prices – średniej ceny
+inexpensive – niedrogie
+
+character arc – motyw fabularny
+	Enterprise - Business
+
+(focus)
+
+Masters Weaponry – Mistrzowsko Posługuje się Bronią
+Leads - Przewodzi	
+Explored Dark Places – Bada Ciemne Miejsca
+Focuses Mind Over Matter – Stawia Umysł Ponad Materią
+Moves like a Cat – Porusza się jak Kot
+Masters Spell – Włada Zaklęciami
+Howls at the Moon – Wyje do Księżyca
+Bears a Halo of Fire – Nosi Halo Ognia
+Works Miracles – Uzdrawia
+Murders – Morduje
+Works the Back Alleys – Pracuje w Ciemnych Uliczkach
+Lives in the Wilderness - Żyje w Dziczy
+Needs No Weapon – Nie Potrzebuje Broni
+Never Says Die – Nigdy się Nie Poddaje
+Performs Feats of Strength - Jest Bardzo Silny   
+Rages – Wpada w Furię
+Entertains – Zabawia
+Helps Their Friends – Pomaga Swoim Przyjaciołom
+Infiltrates – Infiltruje
+Channels Divine Blessings – Otrzymuje Boskie Błogosławieństwo
+Consorts With the Dead – Zadaje się z Martwymi
+Shepherds Spirits – Mówi do Duchów
+Learns Quickly – Szybko się Uczy
+Sees Beyond – Jest Jasnowidzem
+Would Rather Be Reading – Wolałby Czytać
+Defends the Weak – Chroni Słabszych
+Shepherds the Community – Wspiera Społeczność
+Works Miracles – Uzdrawia
+Pilots Starcraft – Pilotuje Statki Kosmiczne
+
+(descriptor)
+
+Hardy – Wytrzymały
+Resilient - Odporny
+
+follower – kompan (wcześniej był Towarzysz, trzeba zmienić!)
+
+knock-on effect – efekt specjalny
+
+power shifts – punkty mocy
+
+dazed - oszołomiony
+stunned – wstrząśnięty
+
+manifested Cypher – zamanifestowany Cypher
+
+depletion (artifact) – wyczerpanie (artefaktu)
+
+Action to initiate – Akcja by rozpocząć

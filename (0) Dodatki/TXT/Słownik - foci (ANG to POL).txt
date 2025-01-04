@@ -1,0 +1,135 @@
+    • Abides in Stone (Jest Stworzony z Kamienia)
+    • Absorbs Energy (Absorbuje Energię)
+    • Awakens Dreams (Przebudza Sny)
+    • Battles Robots (Walczy z Robotami)
+    • Bears a Halo of Fire (Nosi Halo Ognia)
+    • Blazes With Radiance (Jaśnieje Światłem)
+    • Brandishes an Exotic Shield (Nosi Egzotyczną Tarczę)
+    • Builds Robots (Buduje Roboty)
+    • Calculates the Incalculable (Oblicza Nieobliczalne)
+    • Channels Divine Blessings (Otrzymuje Boskie Błogosławieństwo)
+    • Commands Mental Powers (Włada Mocami Mentalnymi)
+    • Conducts Weird Science (Tworzy Dziwną Naukę)
+    • Consorts With the Dead (Zadaje się z Martwymi)
+    • Controls Beasts (Konroluje Bestie)
+    • Controls Gravity (Kontroluje Grawitację)
+    • COPIES SUPERPOWERS (Kopiuje Supermoce)
+    • Crafts Illusions (Tworzy Iluzje)
+    • Crafts Unique Objects (Tworzy Wyjątkowe Przedmioty)
+    • Dances With Dark Matter (Tańczy z Czarną Materią)
+    • Defends the Gate (Chroni Wrót)
+    • Defends the Weak (Chroni Słabszych)
+    • Descends From Nobility (Ma Szlachetną Krew)
+    • Doesn’t Do Much (Nie Robi Zbyt Dużo)
+    • Drives Like A Maniac (Jeździ Jak Maniak)
+    • Emerged From the Obelisk (Wyszedł z Obelisku)
+    • Employs Magnetism (Włada Magnetyzmem)
+    • Entertains (Zabawia)
+    • Exists in Two Places at Once ((Istnieje w Dwóch Miejscach Jednocześnie)
+    • Exists Partially Out of Phase (Istnieje Cześćiowo Poza Fazą)
+    • Explores Dark Places (Bada Ciemne Miejsca)
+    • Fights Dirty (Walczy Nieczysto)
+    • Fights With Panache (Walcząc, Porywa Tłum)
+    • Flies Faster Than a Bullet (Fruwa Szybciej niż Pocisk)
+    • Focuses Mind Over Matter (Stawia Umysł Ponad Materią)
+    • Fuses Flesh and Steel (Łączy Ciało i Stal)
+    • Fuses Mind and Machine (Łączy Umysł i Maszynę)
+    • Grows to Towering Heights (Rośnie do Gigantycznych Rozmiarów)
+    • HAS A THOUSAND FACES (Ma Tysiać Twarzy)
+    • Helps Their Friends (Pomaga Swoim Przyjaciołom)
+    • Howls at the Moon (Wyje do Księżyca)
+    • Hunts (Poluje)
+    • IGNORES PHYSICAL DISTANCE (Ignoruje Fizyczny Dystans)
+    • Infiltrates (Infiltruje)
+    • Interprets the Law (Interpretuje Prawo)
+    • Is Idolized by Millions (Jest Idolem Milionów)
+    • Is Licensed to Carry (Ma Licencję na Broń)
+    • Is Wanted by the Law (Jest Poszukiwany Przez Prawo)
+    • Keeps a Magic Ally (Posiada Magicznego Sprzymierzeńca)
+    • Leads (Przewodzi)
+    • Learns Quickly (Szybko się Uczy)
+    • Lives in the Wilderness (Żyje w Dziczy)
+    • Looks for Trouble (Szuka Kłopotów)
+    • Loves the Void (Kocha Pustkę)
+    • Masters Defense (Jest Mistrzem Obrony)
+    • Masters Spells (Włada Zaklęciami)
+    • Masters the Swarm (Włada Rojem)
+    • Masters Weaponry (Mistrzowsko Posługuje się Bronią)
+    • Metes Out Justice (Zaprowadza Sprawiedliwość)
+    • Moves Like a Cat (Porusza się jak Kot)
+    • Moves Like the Wind (Rusza się jak Wiatr)
+    • Needs No Weapon (Nie Potrzebuje Broni)
+    • Never Says Die (Nigdy Się Nie Poddaje)
+    • Operates Undercover (Działa pod Przykrywką)
+    • Performs Feats of Strength (Jest Bardzo Silny)
+    • Pilots Starcraft (Pilotuje Statek Kosmiczny)
+    • Plays Too Many Games (Gra w Zbyt Wiele Gier)
+    • Rages (Wpada w Furię)
+    • Rides the Lightning (Ujeżdza Błyskawicę)
+    • Runs Away (Ucieka)
+    • Sailed Beneath the Jolly Roger (Pływał z Piratami)
+    • Scavenges (Przeszukuje Ruiny)  (dla Przydasiów???)
+    • SCULPTS HARD LIGHT (Rzeźbi Twardym Światłem)
+    • Sees Beyond (Jest Jasnowidzem)
+    • Separates Mind From Body (Izoluje Umysł od Ciała)
+    • Shepherds the Community (Wspiera Społeczność)
+    • Shepherds Spirits (Mówi do Duchów)
+    • Shreds the Walls of the World (Rozdziera Ściany Świata)
+    • SHRINKS TO MINUTE SIZE (Zmniejsza się)
+    • Siphons Power (Wysysa Energię)
+    • Slays Monsters (Zabije Potwory)
+    • SOARS ON AMAZING WINGS (Leci na Wspaniałych Skrzydłach)
+    • Solves Mysteries (Rozwiązuje Zagadki)
+    • Speaks for the Land (Mówi Głosem Ziemi)
+    • Stands Like a Bastion (Jest Jednoosobowym Bastionem)
+    • STRETCHES (Rozciąga się)
+    • TAKES ANIMAL SHAPE (Przyjmuje Zwierzęcy Kształt)
+    • Talks to Machines (Mówi z Maszynami)
+    • Throws With Deadly Accuracy (Rzuca ze Śmiertelną Dokładnością)
+    • Thunders (Grzmi)
+    • TOUCHES THE SKY (Dotyka Niebios)
+    • Travels Through Time (Podróżuje w Czasie)
+    • Was Foretold (Został Przepowiedziany)
+    • Wears a Sheen of Ice (Przywdziewa Połyskliwy Lód) 
+    • Wears Power Armor (nosi Zasilany Pancerz)
+    • WIELDS AN ENCHANTED WEAPON (Dzierży Magiczną Broń)
+    • WIELDS INVISIBLE FORCE (Włada Niewidzialną Mocą)
+    • Wields Two Weapons at Once (Nosi Dwie Bronie Naraz)
+    • Works for a Living (Pracuje, by Żyć)
+    • Works Miracles (Uzdrawia)
+    • Works the Back Alleys (Pracuje w Ciemnych Uliczkach)
+    • Works the System (Łamie Systemy)
+    • Would Rather Be Reading (Wolałby Czytać)
+    • USES WILD MAGIC (Włada Dziką Magią)
+    • WALKS THE WILD WOODS (Spaceruje w Dzikich Lasach)
+
+
+
+Masters Weaponry – Mistrzowsko Posługuje się Bronią
+Leads - Przewodzi	
+Explored Dark Places – Bada Ciemne Miejsca
+Focuses Mind Over Matter – Stawia Umysł Ponad Materią
+Moves like a Cat – Porusza się jak Kot
+Masters Spell – Włada Zaklęciami
+Howls at the Moon – Wyje do Księżyca
+Bears a Halo of Fire – Nosi Halo Ognia
+Works Miracles – Uzdrawia
+Murders – Morduje ???
+Works the Back Alleys – Pracuje w Ciemnych Uliczkach
+Lives in the Wilderness - Żyje w Dziczy
+Needs No Weapon – Nie Potrzebuje Broni
+Never Says Die – Nigdy się Nie Poddaje
+Performs Feats of Strength - Jest Bardzo Silny   
+Rages – Wpada w Furię
+Entertains – Zabawia
+Helps Their Friends – Pomaga Swoim Przyjaciołom
+Infiltrates – Infiltruje
+Channels Divine Blessings – Otrzymuje Boskie Błogosławieństwo
+Consorts With the Dead – Zadaje się z Martwymi
+Shepherds Spirits – Mówi do Duchów
+Learns Quickly – Szybko się Uczy
+Sees Beyond – Jest Jasnowidzem
+Would Rather Be Reading – Wolałby Czytać
+Defends the Weak – Chroni Słabszych
+Shepherds the Community – Wspiera Społeczność
+
